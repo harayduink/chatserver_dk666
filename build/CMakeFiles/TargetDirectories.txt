@@ -1,0 +1,10 @@
+/home/nku-dk/DOC/code/server/build/CMakeFiles/rebuild_cache.dir
+/home/nku-dk/DOC/code/server/build/CMakeFiles/edit_cache.dir
+/home/nku-dk/DOC/code/server/build/src/CMakeFiles/rebuild_cache.dir
+/home/nku-dk/DOC/code/server/build/src/CMakeFiles/edit_cache.dir
+/home/nku-dk/DOC/code/server/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/nku-dk/DOC/code/server/build/src/server/CMakeFiles/edit_cache.dir
+/home/nku-dk/DOC/code/server/build/src/server/CMakeFiles/ChatServer.dir
+/home/nku-dk/DOC/code/server/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/nku-dk/DOC/code/server/build/src/client/CMakeFiles/edit_cache.dir
+/home/nku-dk/DOC/code/server/build/src/client/CMakeFiles/ChatClient.dir
