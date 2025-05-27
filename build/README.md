@@ -1,4 +1,3 @@
-shell ```
 cmake ..
 make
 ```
