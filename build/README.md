@@ -1,2 +1,4 @@
+shell ```
 cmake ..
 make
+```
